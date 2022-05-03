@@ -4,34 +4,178 @@ You can use the [editor on GitHub](https://github.com/FikayomiOwoseni/Coursera-a
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!DOCTYPE html>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<html>
 
-```markdown
-Syntax highlighted code block
+    <head>
 
-# Header 1
-## Header 2
-### Header 3
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-- Bulleted
-- List
+        <title>My Sunday project</title>
 
-1. Numbered
-2. List
+        <link rel="stylesheet" href="mon.css" type="text/css" media="all" />
 
-**Bold** and _Italic_ and `Code` text
+    </head>
 
-[Link](url) and ![Image](src)
-```
+   <body>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+   <form class="ff" action="" method="get" accept-charset="utf-8">
 
-### Jekyll Themes
+  <p class="p1">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FikayomiOwoseni/Coursera-assignment/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  <span class="s1"> <img class="img2" src="sololearn.png" alt="" <b>INGRESSIVE <br />FOR GOOD</b> </span>
 
-### Support or Contact
+  <span class="s2">+</span>   
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <span class="s3">ZURI <br />training</span>
+
+  <span class="s4"><a href="">Enroll Now</a></span>
+
+  </p><br /><br />
+
+  <center>
+
+      <img class="img1" src="girl.png" alt="" />
+
+      <p class="p2">
+
+        And now, your search has ended...
+
+      </p>
+
+      <h2 class="h2">Gain knowledge to help <br />you scale through the <br /> tech industry for free.</h2><br /><br />
+
+      <p class="p3">A basic introduction to software <br />development and product design aimed at <br /> complete beginners, which anyone can join.</p>
+
+      <div class="d1">
+
+           <a class="" href="#">Enroll Now</a>
+
+      </div>
+
+      <br /><br /><br /><br /><br /> <br /><br /><br /><br /><br /><hr />
+
+      <h2 class="">INGRESSIVE FOR GOOD WAS LAUNCHED IN JULY 2020 WITH NO DOLLAR IN DONATION...</h2>
+
+       <br /><br /><br /><br />
+
+       Powered by:
+
+      <p class="pp">
+
+       <img class="imgg" src="sololearn.png" alt="" /><b>INGRESSIVE <br />FOR GOOD</b></p>
+
+             <br /><br />
+
+    <p class="p4"> to help increase the earning power of <br /> African youths by providing them with <br /> tech skills, community tools, resources <br /> and jobs... <a class="" href="#">Read More</a></p>
+
+    <br /><br /><hr />
+
+    </center>
+
+    <br /><br />
+
+    <p class="p5">
+
+        Why Zuri Training? 
+
+    </p>
+
+    <h3 class="h3">Here at Zuri, you gain access <br /> to enough knowledge to <br /> introduce and aid your <br />success in the tech industry.</h3>
+
+    <fieldset class="f1">
+
+        <h1 class="f1h1">01 <br /><br />Fully <br />Remote</h1>
+
+        <p class="p6">100% online classes <br />available to anyone in the <br />world.   </p>
+
+    </fieldset><br /><br />
+
+    
+
+        <fieldset class="f2">
+
+        <h1 class="f1h1">02 <br /><br />Hands-On <br />Experience </h1>
+
+    <p class="p6">We don't just teach you <br />theory, we show you how to<br />build things.  </p>
+
+    </fieldset><br /><br />
+
+    
+
+        <fieldset class="f3">
+
+        <h1 class="f1h1">03  <br /><br />Collaborative <br />Learning</h1>
+
+        <p class="p6">We connect you with like<br />minds to grow together.  </p>
+
+    </fieldset><br /><br />
+
+    
+
+         <fieldset class="f4">
+
+        <h1 class="f1h1">04  <br /><br />Real-life <br />Projects </h1>
+
+        <p class="p6">We give CV worthy projects<br />to help you hit the ground <br />running. </p>
+
+    </fieldset><br /><br />
+
+   </form>
+</body>
+ </html>  
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
